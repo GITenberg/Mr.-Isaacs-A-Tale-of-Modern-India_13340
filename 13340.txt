@@ -11,6 +11,7 @@ Title: Mr. Isaacs
 Author: F. Marion Crawford
 
 Release Date: August 31, 2004 [EBook #13340]
+[Last updated: September 24, 2015]
 
 Language: English
 
@@ -136,7 +137,7 @@ is recommended to Ems, or Wiesbaden, or Aix-la-Chapelle, and the
 quasi-incurable sensualist to Aix in Savoy, or to Karlsbad in Bohemia.
 In our own magnificent land Bethesdas abound, in every state, from the
 attractive waters of lotus-eating Saratoga to the magnetic springs of
-Lansing, Michigan; from Virginia, the carcanct of sources, the heaving,
+Lansing, Michigan; from Virginia, the carcanet of sources, the heaving,
 the warm, the hot sulphur springs, the white sulphur, the alum, to the
 hot springs of Arkansas, the Ultima Thule of our migratory and
 despairing humanity. But in India, whatever the ailing, low fever, high
@@ -1773,7 +1774,7 @@ and civilised young man."
 young--certainly not to be very original, and my renunciation of all
 these qualifications is my excuse for the confirmed bachelorhood to
 which I adhere. Many Mohammedans are young and original; some of them
-are civilised, as you see, and all of them are married. 'There, is no
+are civilised, as you see, and all of them are married. 'There is no
 God but God, Muhammad is his prophet, and if you refuse to marry you are
 not respectable,' is their full creed."
 
@@ -1915,7 +1916,7 @@ A look of genuine distress came into the Englishman's face.
 one should have heard me. I am so hasty. But let me apologise to you all
 most sincerely for disturbing you with my brutal temper."
 
-His misdeed had not been, a very serious crime after all, and there was
+His misdeed had not been a very serious crime after all, and there was
 something so frank and honest about his awkward little apology that I
 was charmed. The man was a gentleman. Isaacs bowed in silence, and Miss
 Westonhaugh had evidently never thought much about it.
@@ -2610,7 +2611,7 @@ caught occasional glimpses of them through the trees as they wound in
 and out along the path.
 
 "What are those youngsters talking about, back there? Tigers, I'll be
-bound," said Mr. Ghyrkina to me. Sure enough, they were.
+bound," said Mr. Ghyrkins to me. Sure enough, they were.
 
 "What do you suppose I found when we got back this afternoon, Mr.
 Griggs? Why, this hair-brained young Kildare has been proposing to my
@@ -3224,7 +3225,7 @@ inanimate, besides the especial body to which it belongs, acquiring thus
 a direct knowledge of those objects, and they believe that this direct
 knowledge remains. Western philosophers argue that the only acquaintance
 a man can have with bodies external to his mind is that which he
-acquires by the medium of his bodily sensea--though thesa, are
+acquires by the medium of his bodily senses--though these, are
 themselves external to his mind, in the truest sanse. The senses not
 being absolutely reliable, knowledge acquired by means of them is not
 absolutely reliable either. So the ultimate difference between the
@@ -3240,12 +3241,12 @@ accuracy--and this entirely falls in with what you said about the
 application of transcendental analysis to the affairs of everyday life."
 
 "I see you have entirely comprehended me," I said. "But as for the
-Asiatic mind--you seem to deny to it the use of the ealculus of thought,
+Asiatic mind--you seem to deny to it the use of the calculus of thought,
 and yet you denned adepts as attempting to acquire specific knowledge by
 general and transcendental methods. Here is a real contradiction."
 
 "No; I see no confusion, for I do not include the higher adepts in
-either class, sinoe they have the wisdom to make use of the learning and
+either class, since they have the wisdom to make use of the learning and
 of the methods of both. They seem to me to be endeavouring, roughly
 speaking, to combine the two. They believe absolute knowledge
 attainable, and they devote much time to the study of nature, in which
@@ -3325,7 +3326,7 @@ ideal of perfect wisdom. I understand you perfectly."
 'analytic' and 'synthetic,' and 'subjective' and 'objective,' and
 transcendental analysis, and so forth?" It seemed so consistent with his
 mind that he should understand the use of philosophical terms, that I
-had noi realised how odd it was that a man of his purely Oriental
+had not realised how odd it was that a man of his purely Oriental
 education should know anything about the subject. His very broad
 application of the words 'analytic' and 'synthetic' to my pair of
 illustrations attracted my attention and prompted the question I had
@@ -3510,7 +3511,7 @@ particle of ash from his sleeve.
 three days are past." We shook hands, and he went out.
 
 I was glad he had come, though I had been waked from a pleasant nap to
-reeeive him. He was so perfectly gay, and natural, and healthy, that one
+receive him. He was so perfectly gay, and natural, and healthy, that one
 could not help liking him. You felt at once that he was honest and would
 do the right thing in spite of any one, according to his light; that he
 would stand by a friend in danger, and face any odds in fight, with as
@@ -3520,12 +3521,12 @@ less formal manner than belongs to the Englishman; more enthusiasm and
 less regard for "form," while his good heart and natural courtesy would
 lead him right in the long-run. He seemed all sunshine, with his bright
 blue eyes and great fair moustache and brown face; the closely fitting
-uniform showed off his erect figure and; elastic gait, and the whole
+uniform showed off his erect figure and elastic gait, and the whole
 impression was fresh and exhilarating in the extreme. I was sorry he had
 gone. I would have liked to talk with him about boating and fishing and
 shooting; about athletics and horses and tandem-driving, and many things
-I used, to like years ago at college, before I began my wandering life;
-I watched him as he swung himself: into the military saddle, and he
+I used, to like years ago at college, before I began my wandering life.
+I watched him as he swung himself into the military saddle, and he
 threw up his hand in a parting salute as he rode away. Poor fellow! was
 he, too, going to be food for powder and Afghan knives in the avenging
 army on its way to Kabul? I went back to my books and remained reading
@@ -3830,7 +3831,7 @@ for something in his coat.
 
 "Indeed," said Westonhaugh, "it was a very little thing I did for you."
 And presently the two men went together into the drawing-room,
-Wostonhaugh asking all manner of questions, which Isaacs, who was
+Westonhaugh asking all manner of questions, which Isaacs, who was
 himself again, began to answer. The rest of us remained in the vestibule
 to meet Lord Steepleton, who at that moment came up the steps. There
 were more greetings, and then the head _khitmatgar_ appeared and
@@ -4009,7 +4010,7 @@ from across the table. "I am going to define you now; for I strongly
 suspect that you are the very ideal of a philosopher of that class. You
 are a man who believes in all that is good and beautiful in theory, but
 by too much indifference to good in small measures--for you want a thing
-perfect, or you want it not at all---you have abstracted yourself from
+perfect, or you want it not at all--you have abstracted yourself from
 perceiving it anywhere, except in the most brilliant examples of heroism
 that history affords. You set up in your imagination an ideal which you
 call the good man, and you are utterly dissatisfied with anything less
@@ -4151,7 +4152,7 @@ and is quick with his hands can learn to play polo. The stiffest of arms
 can be limbered and the most recalcitrant wrist taught to turn nimbly in
 its socket; but the essential condition is, that the player should know
 how to ride. This being established, there is no reason why anybody who
-likes should not play the game, if he will only use a cetrain amount of
+likes should not play the game, if he will only use a certain amount of
 caution, and avoid braining the other players and injuring the ponies by
 too wild a use of his mallet. Presently it was found that all who were
 to play had arrived--eight of us all told. Kildare had arranged the
@@ -5041,7 +5042,7 @@ to see if the coast were clear. Kildare had behaved splendidly, and
 shouts of congratulation reached his ears from all sides. Miss
 Westonhaugh waved her handkerchief in token of approbation, every one
 applauded, and far away to the left Isaacs, who was in the last howdah,
-clapped his hands vigorously, and seat his high clear voice ringing like
+clapped his hands vigorously, and sent his high clear voice ringing like
 a trumpet down the line.
 
 "Well done, Kildare! well done, indeed!" and his rival's praise was not
@@ -5260,7 +5261,7 @@ ears she wanted. "Still, I hope he will get back safely," I added, in
 afterthought to my reverie, as I turned into bed and ordered Kiramat Ali
 to wake me half an hour before dawn.
 
-I was restless, sleeping a little and dreaming much. At last I struct a
+I was restless, sleeping a little and dreaming much. At last I struck a
 light and looked at my watch. Four o'clock. It would not be dawn for
 more than an hour; I knew Isaacs had made for the place where the tiger
 passed his days, certain that he would return near daybreak, according
@@ -5659,7 +5660,7 @@ for the spot, running. I think I reflected as I ran that it was rather
 low for men to bet on the poor fellow's life in that way. Tigers are
 often very deceptive and always die hard, and I am a cautious person, so
 when I was near I pulled out my long army six-shooter, and, going
-witihin arm's length, quietly put a bullet through the beast's eye as a
+within arm's length, quietly put a bullet through the beast's eye as a
 matter of safety. When he was cut up, however, the ball from the rifle
 of Mr. Ghyrkins was found in his heart; the old fellow was a dead shot
 still. I went up and examined the prostrate man. He was lying on his
@@ -5932,7 +5933,7 @@ you all."
 "But nobody's life depends on your going away to-morrow morning. What do
 you mean? The deuce and all, you know, I don't understand you a bit."
 
-"I cannot tell you, Mr. Ghyrkins; but something dependg on my going,
+"I cannot tell you, Mr. Ghyrkins; but something depends on my going,
 which is of as great importance to the person concerned as life itself.
 Believe me," he said, going near to the old gentleman and laying a hand
 on his arm, "I do not go willingly."
@@ -5960,7 +5961,7 @@ We skirted round the edge of the grove, intending to go back to the
 tents another way. Suddenly I saw something in front that arrested my
 attention. Two figures, some thirty yards away. They stood quite still,
 turned from us. A man and a woman between the trees, an opening in the
-leaves jost letting a ray of moonlight slip through on them. His arm
+leaves just letting a ray of moonlight slip through on them. His arm
 around her, the tall lissome figure of her bent, and her head resting on
 his shoulder. I have good eyes and was not mistaken, but I trusted
 Kildare had not seen. A quick twitch of his arm, hanging carelessly
@@ -7798,7 +7799,7 @@ their way to enjoy. To the full you have enjoyed wealth and success and
 the sensuality of a refined and artistic luxury; to the full, as only a
 few rarely-gifted men can, you have enjoyed the purest and highest love
 that earth can give. Think not that all ends here. The greatest of
-destinies is but begun, and it is the destiny of the soul Two days ago
+destinies is but begun, and it is the destiny of the soul. Two days ago
 if I had told you there was something higher in you than the loving
 heart, you would not have believed me; now you do. It is the ethereal
 portion of the heart, that which longs to be loosed from the body and
